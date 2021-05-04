@@ -1,0 +1,18 @@
+body{
+    background-color:lightblue;
+  }
+  
+  h4{
+    text-align:center;
+  }
+  
+  .MarkdownEditor{
+    max-width:600px;
+    margin:auto;
+  }
+  
+  #preview{
+    background-color:white;
+    border-radius: 10px;
+    padding:10px;
+  }
